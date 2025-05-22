@@ -16,6 +16,7 @@ This project demonstrates the use terraform modules to spin AWS resources..
 
 
 ### **Diagrammatic Presentation**
-- Connected to the cluster
+- ![image](https://github.com/user-attachments/assets/7987f36b-1ae4-4ba0-aef6-cf414636f429)
 
-  ![image](https://github.com/user-attachments/assets/02cf7397-d6af-483d-8dd7-42ec272d289a)
+
+  
