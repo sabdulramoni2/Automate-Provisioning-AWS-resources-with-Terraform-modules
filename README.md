@@ -32,6 +32,36 @@ This project demonstrates the use terraform modules to spin AWS resources..
 
  ![image](https://github.com/user-attachments/assets/cdff95f3-63e3-4540-be85-20782bfbb96e)
 
+ ![image](https://github.com/user-attachments/assets/7cec8460-abce-4eb7-8004-1e3baf0197e8)
+
+ ![image](https://github.com/user-attachments/assets/d2c3becc-31e0-41f5-a104-7d4b26f12ef5)
+
+ ![image](https://github.com/user-attachments/assets/57ac47e2-09a0-4a6b-8ed1-ad506691a681)
+
+ ![image](https://github.com/user-attachments/assets/dcb8fbcd-2780-4a64-8021-9e1ff597698f)
+
+ ![image](https://github.com/user-attachments/assets/6f4dd80f-eedc-4671-a786-9e01c1b06627)
+
+ ![image](https://github.com/user-attachments/assets/3be44370-3ae7-48d1-9922-cf2cd317d3c0)
+
+ ![image](https://github.com/user-attachments/assets/9da03c58-999d-46bb-8882-4efbc0461e3e)
+
+ ![image](https://github.com/user-attachments/assets/1b8f3744-6bd3-4ec7-92ae-ddf208ff65b6)
+
+ ![image](https://github.com/user-attachments/assets/22327f51-2b1f-4bc0-bc91-70e8b907f17a)
+
+ ![image](https://github.com/user-attachments/assets/f4b91c98-9d5a-44e5-8ba5-cfb64a0ef03d)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
